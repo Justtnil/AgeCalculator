@@ -1,4 +1,4 @@
-#  Age Calculator  возраст 🎂
+#  Age Calculator 
 
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)
 ![Language](https://img.shields.io/badge/language-Kotlin-blue.svg)
@@ -29,20 +29,7 @@ This app is more than just a simple age calculator. It's packed with features to
 
 ---
 
-## 📱 Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Home Screen</strong></td>
-    <td align="center"><strong>Age at Date</strong></td>
-    <td align="center"><strong>Date from Age</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.imgur.com/gK9pZ7e.png" width="250"/></td>
-    <td><img src="https://i.imgur.com/L4R1q2W.png" width="250"/></td>
-    <td><img src="https://i.imgur.com/9C3r3bJ.png" width="250"/></td>
-  </tr>
-</table>
 
 ---
 
